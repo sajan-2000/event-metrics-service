@@ -1,0 +1,11 @@
+userId,eventType,timestamp,metadata
+user_001,click,2025-11-04T10:30:00Z,"{""page"":""homepage"",""button"":""signup""}"
+user_002,purchase,2025-11-04T11:15:00Z,"{""product"":""laptop"",""amount"":1200}"
+user_001,login,2025-11-04T12:00:00Z,"{""device"":""mobile"",""location"":""India""}"
+user_003,click,2025-11-04T13:45:00Z,"{""page"":""products"",""category"":""electronics""}"
+user_002,logout,2025-11-04T14:20:00Z,"{""session_duration"":3600}"
+user_004,purchase,2025-11-04T15:30:00Z,"{""product"":""phone"",""amount"":800}"
+user_001,click,2025-11-04T16:00:00Z,"{""page"":""checkout"",""step"":""payment""}"
+user_005,login,2025-11-04T17:10:00Z,"{""device"":""desktop"",""location"":""USA""}"
+user_003,purchase,2025-11-04T18:00:00Z,"{""product"":""tablet"",""amount"":500}"
+user_004,click,2025-11-04T19:15:00Z,"{""page"":""support"",""topic"":""shipping""}"
