@@ -36,7 +36,7 @@ A production-ready Event Metrics Service built with Node.js and TypeScript that 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sajan-2000/event-metrics-service.git
    cd csv-processor
    ```
 
